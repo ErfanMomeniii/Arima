@@ -14,4 +14,6 @@ The ARIMA model requires setting three specific parameters: p, d, and q. These p
 
 You can determine these parameters manually, but there are tools available, like PMDARIMA, that automate this process and help find the best values for the model.
 ![image description](./assets/forcasting.png)
+
+Dataset: [shenba/time-series-datasets](https://www.kaggle.com/datasets/shenba/time-series-datasets)
 </p>
